@@ -18,6 +18,9 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Experiment:
+![image](https://github.com/harishragav272003/Muttiple-capacity-with-infinite-capacity/assets/119345345/8470c755-fd87-481f-9e44-6bd8f58f7975)
+
+
 
 
 ## Program
@@ -60,6 +63,7 @@ print("--------------------------------------------------------------")
 ```
 ## Output :
 ![image](https://github.com/harishragav272003/Muttiple-capacity-with-infinite-capacity/assets/119345345/44704bf1-98c1-46ef-bb87-bc69bc90e5fe)
+![image](https://github.com/harishragav272003/Muttiple-capacity-with-infinite-capacity/assets/119345345/838c3344-f4ac-40ad-91b3-15f51fbb3e78)
 
 
 ## Result : 
